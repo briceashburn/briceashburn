@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @briceashburn.
-- 🌱 I’m currently a software engineer got Genreal Motors.
+- 🌱 I’m currently a software engineer @ General Motors.
 - 📫 How to reach me briceashburn@hotmail.com
 
 <!---
