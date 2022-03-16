@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @briceashburn.
-- 👀 I’m interested in any C.S related job.
-- 🌱 I’m currently a student studying computer science and business.
+- 🌱 I’m currently a software engineer got Genreal Motors.
 - 📫 How to reach me briceashburn@hotmail.com
 
 <!---
